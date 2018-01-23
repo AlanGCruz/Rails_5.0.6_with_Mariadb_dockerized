@@ -1,4 +1,4 @@
-## Dockerized Rails App wit MariaDb for development enviroment ##
+## Dockerized Rails App with MariaDb for development enviroment ##
 This is a full `Ruby On Rails` app development enviroment containing the following:
 * Ruby 2.4.2
 * Mariadb 10.3
